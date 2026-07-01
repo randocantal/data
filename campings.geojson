@@ -1,4 +1,3005 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.196134,
+          44.964438
+        ]
+      },
+      "properties": {
+        "name": "Camping municipal Le Pré des Bains",
+        "adresse": "",
+        "commune": "Laroquebrou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.260406,
+          44.681908
+        ]
+      },
+      "properties": {
+        "name": "Camping Moulin de Chaules",
+        "adresse": "",
+        "commune": "Saint-Constant-Fournoulès"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3589,
+          44.71
+        ]
+      },
+      "properties": {
+        "name": "Aire naturelle Les Érables",
+        "adresse": "",
+        "commune": "Calvinet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.206736,
+          44.706094
+        ]
+      },
+      "properties": {
+        "name": "Camping municipal Le Vert",
+        "adresse": "",
+        "commune": "Maurs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5069,
+          44.701
+        ]
+      },
+      "properties": {
+        "name": "Camping municipal La Grangeotte",
+        "adresse": "",
+        "commune": "Montsalvy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3669,
+          44.643
+        ]
+      },
+      "properties": {
+        "name": "Camping Coursavy",
+        "adresse": "",
+        "commune": "Cassaniouze"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.253773,
+          44.779156
+        ]
+      },
+      "properties": {
+        "name": "Camping municipal Le Moulègre",
+        "adresse": "",
+        "commune": "Boisset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.353617,
+          44.780654
+        ]
+      },
+      "properties": {
+        "name": "Camping municipal L'Étang aux Hirondelles",
+        "adresse": "Rue du Stade",
+        "commune": "Marcolès"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.309709,
+          44.85345
+        ]
+      },
+      "properties": {
+        "name": "Camping municipal Les Parrines",
+        "adresse": "Rue du Camping",
+        "commune": "Saint-Mamet-la-Salvetat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.237181,
+          44.889252
+        ]
+      },
+      "properties": {
+        "name": "Camping de la Ferme de Viescamp",
+        "adresse": "15 avenue des Tilleuls",
+        "commune": "Le Rouget-Pers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.230739,
+          44.935413
+        ]
+      },
+      "properties": {
+        "name": "Camping Les Rives du Lac",
+        "adresse": "",
+        "commune": "Saint-Gérons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.215301,
+          44.938072
+        ]
+      },
+      "properties": {
+        "name": "Domaine La Plage du Garoustel",
+        "adresse": "",
+        "commune": "Saint-Gérons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.447323,
+          44.723727
+        ]
+      },
+      "properties": {
+        "name": "Auberge La Normandie",
+        "adresse": "",
+        "commune": "Junhac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.329987,
+          44.691683
+        ]
+      },
+      "properties": {
+        "name": "Auberge de Mourjou",
+        "adresse": "16 rue du Pélou",
+        "commune": "Mourjou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.289877,
+          44.718868
+        ]
+      },
+      "properties": {
+        "name": "Ferme de séjour de Martory",
+        "adresse": "",
+        "commune": "Leynhac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2062,
+          44.717
+        ]
+      },
+      "properties": {
+        "name": "Gîte Hôtel Restaurant CRUZEL",
+        "adresse": "",
+        "commune": "Saint-Étienne-de-Maurs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.419119,
+          44.644474
+        ]
+      },
+      "properties": {
+        "name": "Hôtel La Terrasse",
+        "adresse": "",
+        "commune": "Vieillevie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.500758,
+          44.708274
+        ]
+      },
+      "properties": {
+        "name": "Hôtel L'Auberge Fleurie",
+        "adresse": "",
+        "commune": "Montsalvy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.212887,
+          45.083945
+        ]
+      },
+      "properties": {
+        "name": "Village Vacances Camping Paradis - La Gineste",
+        "adresse": "",
+        "commune": "Arnac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.188511,
+          44.714233
+        ]
+      },
+      "properties": {
+        "name": "Domaine La Châtaigneraie",
+        "adresse": "",
+        "commune": "Maurs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.888538,
+          45.347451
+        ]
+      },
+      "properties": {
+        "name": "Le Lac des Estives",
+        "adresse": "Le Lac",
+        "commune": "Montgreleix"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.870566,
+          45.344221
+        ]
+      },
+      "properties": {
+        "name": "Gite d'Étape de Montgreleix",
+        "adresse": "Le Bourg",
+        "commune": "Montgreleix"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.383272,
+          44.690116
+        ]
+      },
+      "properties": {
+        "name": "Auberge des Voyageurs",
+        "adresse": "12 rue du Lavoir",
+        "commune": "Cassaniouze"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.666609,
+          45.282015
+        ]
+      },
+      "properties": {
+        "name": "Gîte Hip Hop / Rock / Jazz espace camping",
+        "adresse": "11 Rue des Docteurs Roche",
+        "commune": "Riom-ès-Montagnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.666501,
+          45.281771
+        ]
+      },
+      "properties": {
+        "name": "Gîte Dali Klimt",
+        "adresse": "Grange du Sedour",
+        "commune": "Riom-ès-Montagnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.76124,
+          45.288086
+        ]
+      },
+      "properties": {
+        "name": "Gîte d'étape de Lugarde",
+        "adresse": "1 rue des écoles",
+        "commune": "Lugarde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.666609,
+          45.282015
+        ]
+      },
+      "properties": {
+        "name": "Camping / Gîtes Le Sédour",
+        "adresse": "Route de Condat",
+        "commune": "Riom-ès-Montagnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.708043,
+          45.158795
+        ]
+      },
+      "properties": {
+        "name": "Camping Les Monts du Cantal",
+        "adresse": "7 Route de chabraire",
+        "commune": "Le Claux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.71841,
+          45.20975
+        ]
+      },
+      "properties": {
+        "name": "Camping Municipal La Biaugue",
+        "adresse": "",
+        "commune": "Cheylade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.538011,
+          45.253367
+        ]
+      },
+      "properties": {
+        "name": "Camping OnlyCamp Le Pioulat",
+        "adresse": "",
+        "commune": "Trizac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.692952,
+          45.246602
+        ]
+      },
+      "properties": {
+        "name": "Camping Municipal d'Apchon",
+        "adresse": "14 rue du Coudert",
+        "commune": "Apchon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.710619,
+          45.15203
+        ]
+      },
+      "properties": {
+        "name": "Chambres d'hôtes Lavialle",
+        "adresse": "",
+        "commune": "Le Claux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.717799,
+          45.226453
+        ]
+      },
+      "properties": {
+        "name": "La Ferme d'Elisariane",
+        "adresse": "323 impasse Marie Galvain",
+        "commune": "Saint-Hippolyte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.694508,
+          45.24883
+        ]
+      },
+      "properties": {
+        "name": "Chambres d'hôtes Résidence Hauteclair",
+        "adresse": "10 rue du Bailli",
+        "commune": "Apchon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.692759,
+          45.246874
+        ]
+      },
+      "properties": {
+        "name": "Chambres d'hôtes L'oustalou",
+        "adresse": "26 Rue du champ de foire",
+        "commune": "Apchon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.740361,
+          45.237534
+        ]
+      },
+      "properties": {
+        "name": "Chambres d'hôtes du Limon",
+        "adresse": "",
+        "commune": "Cheylade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.633199,
+          45.240389
+        ]
+      },
+      "properties": {
+        "name": "Chambre d'hôtes Ferme d'Espinasse",
+        "adresse": "",
+        "commune": "Collandres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.693085,
+          45.246611
+        ]
+      },
+      "properties": {
+        "name": "Auberge le Cheylet",
+        "adresse": "25 rue du Champs de Foire",
+        "commune": "Apchon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.659346,
+          45.281492
+        ]
+      },
+      "properties": {
+        "name": "Hôtel Le Saint-Georges",
+        "adresse": "5 rue du Capitaine Chevalier",
+        "commune": "Riom-ès-Montagnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.655208,
+          45.284288
+        ]
+      },
+      "properties": {
+        "name": "The Originals Hôtel le Lutéa",
+        "adresse": "Rue du Champ de Foire",
+        "commune": "Riom-ès-Montagnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.716689,
+          45.209705
+        ]
+      },
+      "properties": {
+        "name": "Grand Hôtel de la Vallée",
+        "adresse": "12 route du Puy Mary",
+        "commune": "Cheylade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.716737,
+          45.2065
+        ]
+      },
+      "properties": {
+        "name": "Naturessime Eco Village & Spa",
+        "adresse": "3 route du limon",
+        "commune": "Cheylade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.586658,
+          45.302898
+        ]
+      },
+      "properties": {
+        "name": "Village Vacances du Lac de Menet",
+        "adresse": "18 route autour du lac",
+        "commune": "Menet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.438953,
+          45.090428
+        ]
+      },
+      "properties": {
+        "name": "Auberge des Volcans",
+        "adresse": "1 route des camps",
+        "commune": "Saint-Chamant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.495458,
+          45.13915
+        ]
+      },
+      "properties": {
+        "name": "Le Bailliage",
+        "adresse": "31 rue Notre-Dame",
+        "commune": "Salers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.493892,
+          45.136492
+        ]
+      },
+      "properties": {
+        "name": "Les Remparts",
+        "adresse": "32 avenue de Barrouze",
+        "commune": "Salers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.623259,
+          45.1547
+        ]
+      },
+      "properties": {
+        "name": "Les Voyageurs",
+        "adresse": "8 rue St-Germain",
+        "commune": "Le Falgoux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.48364,
+          45.053568
+        ]
+      },
+      "properties": {
+        "name": "Auberge de Tournemire",
+        "adresse": "15 rue Edouard Marty",
+        "commune": "Tournemire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.494256,
+          45.138323
+        ]
+      },
+      "properties": {
+        "name": "Le Beffroi",
+        "adresse": "17 rue du Beffroi",
+        "commune": "Salers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.427571,
+          45.114882
+        ]
+      },
+      "properties": {
+        "name": "La Source du Mont",
+        "adresse": "9 rue du Foirail",
+        "commune": "Saint-Martin-Valmeroux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.370545,
+          45.109417
+        ]
+      },
+      "properties": {
+        "name": "Le Grand Gîte - Moments Nature",
+        "adresse": "Le Cros",
+        "commune": "Sainte-Eulalie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.425897,
+          45.076555
+        ]
+      },
+      "properties": {
+        "name": "Ferme de Lamourio",
+        "adresse": "13 lamourio",
+        "commune": "Saint-Cernin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.437841,
+          45.204927
+        ]
+      },
+      "properties": {
+        "name": "Les Sorbiers",
+        "adresse": "14 -16 rue du petit chemin",
+        "commune": "Anglards-de-Salers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.453385,
+          45.171725
+        ]
+      },
+      "properties": {
+        "name": "La Chambre de Roche",
+        "adresse": "Lieu Dit",
+        "commune": "Saint-Bonnet-de-Salers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.470636,
+          45.132179
+        ]
+      },
+      "properties": {
+        "name": "Domaine de la Chaux de Revel Chambre d'hôtes",
+        "adresse": "La Chaux de Revel",
+        "commune": "Saint-Martin-Valmeroux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.283665,
+          45.154706
+        ]
+      },
+      "properties": {
+        "name": "La Fournio",
+        "adresse": "18",
+        "commune": "Chaussenac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.495677,
+          45.138907
+        ]
+      },
+      "properties": {
+        "name": "Les Sagranières",
+        "adresse": "44, rue Notre-Dame",
+        "commune": "Salers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28686,
+          45.087728
+        ]
+      },
+      "properties": {
+        "name": "La Maison de Chablat",
+        "adresse": "1216, route du gouffre de la monnaie",
+        "commune": "Saint-Martin-Cantalès"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.478338,
+          45.174969
+        ]
+      },
+      "properties": {
+        "name": "Guidon & Fourchette",
+        "adresse": "17 Navaste",
+        "commune": "Saint-Bonnet-de-Salers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.503108,
+          45.11364
+        ]
+      },
+      "properties": {
+        "name": "Lou Catou",
+        "adresse": "136 rue de l'Aspre",
+        "commune": "Fontanges"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.591064,
+          45.155116
+        ]
+      },
+      "properties": {
+        "name": "Auberge du Col de Néronne",
+        "adresse": "2 col de Néronne",
+        "commune": "Saint-Paul-de-Salers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.423244,
+          45.116178
+        ]
+      },
+      "properties": {
+        "name": "Camping Le Moulin du Teinturier",
+        "adresse": "9 rue de Montjoly",
+        "commune": "Saint-Martin-Valmeroux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.500007,
+          45.113268
+        ]
+      },
+      "properties": {
+        "name": "Camping la Pierre Plate",
+        "adresse": "Le Bourg",
+        "commune": "Fontanges"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.620009,
+          45.153225
+        ]
+      },
+      "properties": {
+        "name": "Aire naturelle le Chambon",
+        "adresse": "8, Route du Col de Neronne",
+        "commune": "Le Falgoux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25857,
+          45.071812
+        ]
+      },
+      "properties": {
+        "name": "Camping Pont du Rouffet",
+        "adresse": "10 route du Pont du Rouffet",
+        "commune": "Saint-Martin-Cantalès"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.593406,
+          45.100383
+        ]
+      },
+      "properties": {
+        "name": "Domaine du Lissart de Miège",
+        "adresse": "La Bastide",
+        "commune": "Le Fau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.439716,
+          45.201741
+        ]
+      },
+      "properties": {
+        "name": "Aire naturelle les Fraux",
+        "adresse": "Rue des Marronniers",
+        "commune": "Anglards-de-Salers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.498424,
+          45.147624
+        ]
+      },
+      "properties": {
+        "name": "Camping le Mouriol",
+        "adresse": "7 route du Puy-Mary",
+        "commune": "Salers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.223036,
+          45.136933
+        ]
+      },
+      "properties": {
+        "name": "L'Echappée Verte",
+        "adresse": "4, Allée de Triniac",
+        "commune": "Pleaux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.53408,
+          45.436875
+        ]
+      },
+      "properties": {
+        "name": "Hôtel Delmas",
+        "adresse": "200 place de l'église",
+        "commune": "Lanobre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.575727,
+          45.382626
+        ]
+      },
+      "properties": {
+        "name": "Chambres et table d'hôtes Croque Lunes",
+        "adresse": "6 chemin du Charlissou",
+        "commune": "Champs-sur-Tarentaine-Marchal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.557853,
+          45.440726
+        ]
+      },
+      "properties": {
+        "name": "Chambres d'hôtes Artense Hôtes",
+        "adresse": "282 route d'Auzaric",
+        "commune": "Lanobre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.464175,
+          45.302854
+        ]
+      },
+      "properties": {
+        "name": "Chambres et table d'hôtes Chez Marraine",
+        "adresse": "4 route d'Ardit",
+        "commune": "Sauvat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.50979,
+          45.348793
+        ]
+      },
+      "properties": {
+        "name": "Chambres d'hôtes Champassis",
+        "adresse": "2 Champassis",
+        "commune": "Vebret"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.412639,
+          45.324996
+        ]
+      },
+      "properties": {
+        "name": "Chambres d'hôtes Le Relais des Capucines",
+        "adresse": "78 avenue de la Libération",
+        "commune": "Ydes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.51051,
+          45.451912
+        ]
+      },
+      "properties": {
+        "name": "Camping L'Air du Temps",
+        "adresse": "1, La Barrière",
+        "commune": "Beaulieu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.405871,
+          45.363137
+        ]
+      },
+      "properties": {
+        "name": "Les Chalets du camping de Béringer",
+        "adresse": "Montruc",
+        "commune": "Champagnac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.583574,
+          45.367274
+        ]
+      },
+      "properties": {
+        "name": "Camping de l'Écureuil",
+        "adresse": "L'Écureuil",
+        "commune": "Champs-sur-Tarentaine-Marchal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.603435,
+          45.394133
+        ]
+      },
+      "properties": {
+        "name": "Camping de l'Étang",
+        "adresse": "1 Mérigot",
+        "commune": "Champs-sur-Tarentaine-Marchal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.548934,
+          45.390793
+        ]
+      },
+      "properties": {
+        "name": "Camping municipal de La Tarentaine",
+        "adresse": "6, rue du Pont de Lourseyre",
+        "commune": "Champs-sur-Tarentaine-Marchal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.503779,
+          45.430308
+        ]
+      },
+      "properties": {
+        "name": "Camping Huttopia Lac de la Siauve",
+        "adresse": "Rue du camping",
+        "commune": "Lanobre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.473823,
+          45.336875
+        ]
+      },
+      "properties": {
+        "name": "Camping municipal de Bellevue",
+        "adresse": "Complexe sportif de Bellevue",
+        "commune": "Saignes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.390345,
+          45.391621
+        ]
+      },
+      "properties": {
+        "name": "Camping municipal Les Pagues",
+        "adresse": "17 rue du mentier",
+        "commune": "Saint-Pierre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.666201,
+          45.403874
+        ]
+      },
+      "properties": {
+        "name": "Camping municipal Les Bruyères",
+        "adresse": "1 Pacher Daval",
+        "commune": "Trémouille"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.499352,
+          45.363068
+        ]
+      },
+      "properties": {
+        "name": "Camping Ferme de séjour",
+        "adresse": "4  Verchalles soutro",
+        "commune": "Vebret"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.388387,
+          45.283416
+        ]
+      },
+      "properties": {
+        "name": "VVF Cantal Salers Vendes",
+        "adresse": "1 cité de la mine",
+        "commune": "Bassignac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.565327,
+          45.393294
+        ]
+      },
+      "properties": {
+        "name": "VVF Cantal Champs-sur-Tarentaine",
+        "adresse": "Marchal Le Suc de Triviaux",
+        "commune": "Champs-sur-Tarentaine-Marchal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.683864,
+          44.95048
+        ]
+      },
+      "properties": {
+        "name": "L'Auberge des Montagnes",
+        "adresse": "Le bourg",
+        "commune": "Pailherols"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.632041,
+          44.976464
+        ]
+      },
+      "properties": {
+        "name": "Bel Horizon",
+        "adresse": "5 rue Paul Doumer",
+        "commune": "Vic-sur-Cère"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.71171,
+          45.052473
+        ]
+      },
+      "properties": {
+        "name": "Le Brunet",
+        "adresse": "Le bourg",
+        "commune": "Saint-Jacques-des-Blats"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.63478,
+          44.978625
+        ]
+      },
+      "properties": {
+        "name": "Hôtel des Bains",
+        "adresse": "15 Avenue de la promenade",
+        "commune": "Vic-sur-Cère"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.665099,
+          45.01438
+        ]
+      },
+      "properties": {
+        "name": "L'Elancèze",
+        "adresse": "30 Grand'Rue",
+        "commune": "Thiézac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.686619,
+          44.952283
+        ]
+      },
+      "properties": {
+        "name": "Les Maisons de Montagne - Chez Marie",
+        "adresse": "Le bourg",
+        "commune": "Pailherols"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.711,
+          45.051
+        ]
+      },
+      "properties": {
+        "name": "Appart'Hôtel Le Griou",
+        "adresse": "14 avenue Adrien Ruelle",
+        "commune": "Saint-Jacques-des-Blats"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.581497,
+          44.951094
+        ]
+      },
+      "properties": {
+        "name": "Le Val du Cantal",
+        "adresse": "9 allée des Monts d'Auvergne",
+        "commune": "Polminhac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.626635,
+          44.979149
+        ]
+      },
+      "properties": {
+        "name": "Le Beauséjour",
+        "adresse": "4 avenue André Mercier",
+        "commune": "Vic-sur-Cère"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.619456,
+          44.975263
+        ]
+      },
+      "properties": {
+        "name": "Family Hôtel",
+        "adresse": "19 Avenue Emile Duclaux",
+        "commune": "Vic-sur-Cère"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.612143,
+          44.874626
+        ]
+      },
+      "properties": {
+        "name": "L'Auberge de la Sapinière",
+        "adresse": "Le bourg",
+        "commune": "Cros-de-Ronesque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.713355,
+          45.049012
+        ]
+      },
+      "properties": {
+        "name": "L'Escoundillou",
+        "adresse": "29-31 Route de la Gare",
+        "commune": "Saint-Jacques-des-Blats"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.631837,
+          44.974848
+        ]
+      },
+      "properties": {
+        "name": "Le Saint Joseph",
+        "adresse": "4 avenue du Barrez",
+        "commune": "Vic-sur-Cère"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.718902,
+          45.069581
+        ]
+      },
+      "properties": {
+        "name": "Les Chazes",
+        "adresse": "Les Chazes",
+        "commune": "Saint-Jacques-des-Blats"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.671566,
+          45.015848
+        ]
+      },
+      "properties": {
+        "name": "Le Castel du Cantal",
+        "adresse": "Grand'Rue",
+        "commune": "Thiézac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.655347,
+          44.899394
+        ]
+      },
+      "properties": {
+        "name": "Auberge de Raulhac",
+        "adresse": "Le bourg",
+        "commune": "Raulhac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.670305,
+          45.01361
+        ]
+      },
+      "properties": {
+        "name": "Camping la Bédisse",
+        "adresse": "La Bédisse",
+        "commune": "Thiézac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.713564,
+          45.052548
+        ]
+      },
+      "properties": {
+        "name": "Camping des Blats",
+        "adresse": "Route de la Gare",
+        "commune": "Saint-Jacques-des-Blats"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.610798,
+          44.872294
+        ]
+      },
+      "properties": {
+        "name": "La Sapinière",
+        "adresse": "Le Bourg",
+        "commune": "Cros-de-Ronesque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.629219,
+          44.981215
+        ]
+      },
+      "properties": {
+        "name": "Camping Vic Nature**",
+        "adresse": "15 allée des Tilleuls",
+        "commune": "Vic-sur-Cère"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.641534,
+          44.985867
+        ]
+      },
+      "properties": {
+        "name": "G.C.U",
+        "adresse": "Salvanhac",
+        "commune": "Vic-sur-Cère"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.677168,
+          45.029507
+        ]
+      },
+      "properties": {
+        "name": "Le Clou",
+        "adresse": "",
+        "commune": "Thiézac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.632996,
+          44.971212
+        ]
+      },
+      "properties": {
+        "name": "La Pommeraie",
+        "adresse": "La Pommeraie",
+        "commune": "Vic-sur-Cère"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.587345,
+          44.948034
+        ]
+      },
+      "properties": {
+        "name": "Camping du Val de Cère",
+        "adresse": "Camping du Val de Cère",
+        "commune": "Polminhac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.662764,
+          45.015703
+        ]
+      },
+      "properties": {
+        "name": "La Sapinière- Aire de Camping Car",
+        "adresse": "La Sapinière",
+        "commune": "Thiézac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.649508,
+          44.958269
+        ]
+      },
+      "properties": {
+        "name": "Chambres d'hôtes \"le Paradis Vert\"",
+        "adresse": "",
+        "commune": "Saint-Clément"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.650044,
+          44.873374
+        ]
+      },
+      "properties": {
+        "name": "Domaine de Courbelimagne",
+        "adresse": "Lieu-dit Courbelimagne",
+        "commune": "Raulhac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.667376,
+          45.015461
+        ]
+      },
+      "properties": {
+        "name": "La Maison de Jeanne",
+        "adresse": "19 rue des Balcons",
+        "commune": "Thiézac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.694967,
+          44.949903
+        ]
+      },
+      "properties": {
+        "name": "La Petite Escale du Pouget",
+        "adresse": "5 Le Pouget",
+        "commune": "Pailherols"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.611979,
+          44.909897
+        ]
+      },
+      "properties": {
+        "name": "La Calsade",
+        "adresse": "",
+        "commune": "Badailhac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.630593,
+          44.97681
+        ]
+      },
+      "properties": {
+        "name": "Kinopanorama",
+        "adresse": "1 Rue de la Gare",
+        "commune": "Vic-sur-Cère"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.621296,
+          44.977777
+        ]
+      },
+      "properties": {
+        "name": "Le Terrondou",
+        "adresse": "2 avenue Emile Duclaux",
+        "commune": "Vic-sur-Cère"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.694,
+          44.982
+        ]
+      },
+      "properties": {
+        "name": "La Roussière - Maison d'hôtes",
+        "adresse": "La Roussière",
+        "commune": "Saint-Clément"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.635966,
+          44.98094
+        ]
+      },
+      "properties": {
+        "name": "Château Ol Puech",
+        "adresse": "25 Avenue de la Promenade",
+        "commune": "Vic-sur-Cère"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.684643,
+          44.950829
+        ]
+      },
+      "properties": {
+        "name": "Les Flocons Verts",
+        "adresse": "13 chemin de la beauté",
+        "commune": "Pailherols"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.622573,
+          44.921584
+        ]
+      },
+      "properties": {
+        "name": "Les Herbages",
+        "adresse": "Le Bourg",
+        "commune": "Badailhac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.446775,
+          44.912943
+        ]
+      },
+      "properties": {
+        "name": "Hôtel Ibis",
+        "adresse": "9 allée Georges Pompidou",
+        "commune": "Aurillac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.433815,
+          44.924794
+        ]
+      },
+      "properties": {
+        "name": "La Thomasse",
+        "adresse": "26  rue du Docteur Louis Mallet",
+        "commune": "Aurillac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.55964,
+          45.016692
+        ]
+      },
+      "properties": {
+        "name": "Le Lac des Graves",
+        "adresse": "Jaulhac",
+        "commune": "Lascelle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.455775,
+          44.913462
+        ]
+      },
+      "properties": {
+        "name": "Hôtel B&B Aurillac - Le Lioran",
+        "adresse": "41  avenue Georges Pompidou",
+        "commune": "Aurillac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.444263,
+          44.911224
+        ]
+      },
+      "properties": {
+        "name": "Hôtel Le Relax",
+        "adresse": "113 avenue du Général Leclerc",
+        "commune": "Aurillac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.512179,
+          44.890622
+        ]
+      },
+      "properties": {
+        "name": "Château de Salles",
+        "adresse": "Route du Château de Salles",
+        "commune": "Vézac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.653885,
+          45.067701
+        ]
+      },
+      "properties": {
+        "name": "Aux Genêts d'Or",
+        "adresse": "Le Bourg",
+        "commune": "Mandailles-Saint-Julien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.443094,
+          44.92676
+        ]
+      },
+      "properties": {
+        "name": "Hôtel des Carmes",
+        "adresse": "20 rue des Carmes",
+        "commune": "Aurillac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.443886,
+          44.913753
+        ]
+      },
+      "properties": {
+        "name": "Le Campanile",
+        "adresse": "3  rue Louise Michel",
+        "commune": "Aurillac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.447119,
+          44.928592
+        ]
+      },
+      "properties": {
+        "name": "The Originals Boutique, Grand Hôtel Saint Pierre",
+        "adresse": "16 cours Monthyon",
+        "commune": "Aurillac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.658207,
+          45.071853
+        ]
+      },
+      "properties": {
+        "name": "L'Enclos du Puy Mary",
+        "adresse": "6 route des volcans",
+        "commune": "Mandailles-Saint-Julien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.582268,
+          45.028266
+        ]
+      },
+      "properties": {
+        "name": "Les Tilleuls",
+        "adresse": "Le  Bourg",
+        "commune": "Saint-Cirgues-de-Jordanne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.420874,
+          44.987719
+        ]
+      },
+      "properties": {
+        "name": "Le Prado",
+        "adresse": "16 avenue de la Prade",
+        "commune": "Jussac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.583789,
+          44.807741
+        ]
+      },
+      "properties": {
+        "name": "La Bergerie",
+        "adresse": "Le  Bourg",
+        "commune": "Vezels-Roussy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.442859,
+          44.927878
+        ]
+      },
+      "properties": {
+        "name": "Le Renaissance",
+        "adresse": "13, Place du Square",
+        "commune": "Aurillac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.442048,
+          44.928177
+        ]
+      },
+      "properties": {
+        "name": "Grand Hôtel de Bordeaux",
+        "adresse": "2  avenue de la République",
+        "commune": "Aurillac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.442945,
+          44.92781
+        ]
+      },
+      "properties": {
+        "name": "Square Hôtel",
+        "adresse": "15 Place du Square",
+        "commune": "Aurillac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.263181,
+          44.922965
+        ]
+      },
+      "properties": {
+        "name": "Hôtel du Lac",
+        "adresse": "Le  Bourg",
+        "commune": "Lacapelle-Viescamp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.421679,
+          44.909388
+        ]
+      },
+      "properties": {
+        "name": "The Originals Hotel Access Aeroport",
+        "adresse": "141 avenue de Conthe",
+        "commune": "Aurillac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.455391,
+          45.005333
+        ]
+      },
+      "properties": {
+        "name": "Château de Sédaiges",
+        "adresse": "3 Place du Marronier",
+        "commune": "Marmanhac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.490768,
+          44.966446
+        ]
+      },
+      "properties": {
+        "name": "\"La Pradelle\"",
+        "adresse": "",
+        "commune": "Saint-Simon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.433492,
+          44.919971
+        ]
+      },
+      "properties": {
+        "name": "Une Chambre en Ville",
+        "adresse": "20 rue François Maynard",
+        "commune": "Aurillac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.493992,
+          45.008961
+        ]
+      },
+      "properties": {
+        "name": "\"Chez Margaret\"",
+        "adresse": "16,rue Marie Curie",
+        "commune": "Marmanhac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.564878,
+          45.038294
+        ]
+      },
+      "properties": {
+        "name": "Chambre d'Hôtes de Lageneste",
+        "adresse": "",
+        "commune": "Lascelle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.462614,
+          44.936254
+        ]
+      },
+      "properties": {
+        "name": "Château de la Moissetie",
+        "adresse": "",
+        "commune": "Aurillac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.435007,
+          44.891848
+        ]
+      },
+      "properties": {
+        "name": "\"Chez Mounette\"",
+        "adresse": "20 Chemin du Bousquet",
+        "commune": "Arpajon-sur-Cère"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.513938,
+          44.995077
+        ]
+      },
+      "properties": {
+        "name": "Ferme de Broize",
+        "adresse": "",
+        "commune": "Marmanhac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.449688,
+          44.931571
+        ]
+      },
+      "properties": {
+        "name": "L'ERMITAGE",
+        "adresse": "20 rue des Dames",
+        "commune": "Aurillac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.442518,
+          44.882345
+        ]
+      },
+      "properties": {
+        "name": "Le Cambon",
+        "adresse": "",
+        "commune": "Arpajon-sur-Cère"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.494668,
+          44.930901
+        ]
+      },
+      "properties": {
+        "name": "CHRISTIANE LAMIOT",
+        "adresse": "381 Impasse de la Granière",
+        "commune": "Giou-de-Mamou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.513294,
+          44.931266
+        ]
+      },
+      "properties": {
+        "name": "Chambre d'hôtes  \"La Maison\"",
+        "adresse": "",
+        "commune": "Giou-de-Mamou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.658753,
+          45.067352
+        ]
+      },
+      "properties": {
+        "name": "\"Les 4 Saisons\"",
+        "adresse": "5 rue de la remise",
+        "commune": "Mandailles-Saint-Julien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.437752,
+          44.941252
+        ]
+      },
+      "properties": {
+        "name": "Chambres et Table d'Hôtes de Massigoux",
+        "adresse": "",
+        "commune": "Aurillac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.987352,
+          45.091442
+        ]
+      },
+      "properties": {
+        "name": "Gîte de groupe Chantarisa",
+        "adresse": "4, Charreire de la Font",
+        "commune": "Coltines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.251695,
+          45.012455
+        ]
+      },
+      "properties": {
+        "name": "Gîte de groupe de l'auberge Les Volpilières",
+        "adresse": "Trailus",
+        "commune": "Ruynes-en-Margeride"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.219652,
+          45.001145
+        ]
+      },
+      "properties": {
+        "name": "Gîte de groupe Les Aygues",
+        "adresse": "4, rue Gustave Eiffel - Léon Boyer",
+        "commune": "Ruynes-en-Margeride"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.108454,
+          45.276455
+        ]
+      },
+      "properties": {
+        "name": "Gite d'étape et de séjour de Laurie",
+        "adresse": "La Prade",
+        "commune": "Laurie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04832,
+          45.046875
+        ]
+      },
+      "properties": {
+        "name": "Ferme Le Ruisselet - gîte de groupes",
+        "adresse": "Mazérat - 23, Rue de Ribater",
+        "commune": "Roffiac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.902021,
+          44.844216
+        ]
+      },
+      "properties": {
+        "name": "Chez Denise - Chambres et table d'hôtes",
+        "adresse": "Esclauzet",
+        "commune": "Lieutadès"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.248842,
+          45.013065
+        ]
+      },
+      "properties": {
+        "name": "L'Oustar de Tougnini  - Chambres d'hôtes",
+        "adresse": "Trailus 1 le Mût",
+        "commune": "Ruynes-en-Margeride"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.90629,
+          45.003499
+        ]
+      },
+      "properties": {
+        "name": "La Frêneraie - Chambres d'hôtes",
+        "adresse": "6 rue de Ribeyrol",
+        "commune": "Paulhac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.822148,
+          45.036548
+        ]
+      },
+      "properties": {
+        "name": "Auberge de l'Epie - Chambres d'Hôtes et auberge",
+        "adresse": "La Sagnette",
+        "commune": "Paulhac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.102093,
+          45.135131
+        ]
+      },
+      "properties": {
+        "name": "Auberge de l'Astrassadou - Chambres d'Hôtes et auberge",
+        "adresse": "6, rue de la Laiterie",
+        "commune": "Rézentières"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.782225,
+          45.010346
+        ]
+      },
+      "properties": {
+        "name": "ARTIS Louis et Elise - \"Les Cascades\" - Chambres et table d'hôte",
+        "adresse": "Lustrande",
+        "commune": "Brezons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.093711,
+          45.033011
+        ]
+      },
+      "properties": {
+        "name": "La Maison d'Adélaïde - Chambres d'Hôtes",
+        "adresse": "12, rue de la Rollandie",
+        "commune": "Saint-Flour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.121346,
+          45.267814
+        ]
+      },
+      "properties": {
+        "name": "Camping municipal de la Sianne",
+        "adresse": "Le bourg",
+        "commune": "Auriac-l'Église"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.21894,
+          44.999069
+        ]
+      },
+      "properties": {
+        "name": "Le Petit Bois camping",
+        "adresse": "3, rue Gustave Eiffel - Léon Boyer",
+        "commune": "Ruynes-en-Margeride"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.082781,
+          45.033168
+        ]
+      },
+      "properties": {
+        "name": "Camping de mon Village - Camping** Car Park Les Orgues",
+        "adresse": "17, avenue du Dr Mallet",
+        "commune": "Saint-Flour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.109574,
+          45.276058
+        ]
+      },
+      "properties": {
+        "name": "Camping municipal de Laurie",
+        "adresse": "La Prade",
+        "commune": "Laurie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.20944,
+          44.889741
+        ]
+      },
+      "properties": {
+        "name": "Camping de Saint-Just - Only Camp",
+        "adresse": "9 rue du 22 juin 1944",
+        "commune": "Val d'Arcomie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.804719,
+          44.921658
+        ]
+      },
+      "properties": {
+        "name": "Camping municipal de Saint-Martin-sous-Vigouroux",
+        "adresse": "Le bourg",
+        "commune": "Saint-Martin-sous-Vigouroux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.146773,
+          44.938667
+        ]
+      },
+      "properties": {
+        "name": "Camping municipal de Faverolles",
+        "adresse": "Camping de Faverolles",
+        "commune": "Val d'Arcomie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04832,
+          45.046875
+        ]
+      },
+      "properties": {
+        "name": "Ferme Le Ruisselet",
+        "adresse": "Mazérat - 23, Rue de Ribater",
+        "commune": "Roffiac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.192425,
+          45.248485
+        ]
+      },
+      "properties": {
+        "name": "Camping \"mon village de Massiac\"",
+        "adresse": "Avenue de Courcelles",
+        "commune": "Massiac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.057169,
+          45.18304
+        ]
+      },
+      "properties": {
+        "name": "Hôtel-restaurant Les Voyageurs",
+        "adresse": "Le bourg",
+        "commune": "Ferrières-Saint-Mary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.10132,
+          45.036792
+        ]
+      },
+      "properties": {
+        "name": "Brit Hotel",
+        "adresse": "Route de Clermont-Ferrand",
+        "commune": "Saint-Flour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.090407,
+          45.032964
+        ]
+      },
+      "properties": {
+        "name": "Hôtel du Nord",
+        "adresse": "18, rue des Lacs",
+        "commune": "Saint-Flour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.171787,
+          44.973481
+        ]
+      },
+      "properties": {
+        "name": "Garabit Hôtel",
+        "adresse": "Route du Viaduc - GARABIT",
+        "commune": "Anglards-de-Saint-Flour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.196077,
+          45.264164
+        ]
+      },
+      "properties": {
+        "name": "Hôtel La Colombière",
+        "adresse": "4 route de Clermont-Ferrand",
+        "commune": "Massiac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.166877,
+          44.979436
+        ]
+      },
+      "properties": {
+        "name": "Le Panoramic Garabit",
+        "adresse": "2 route du Viaduc - Garabit",
+        "commune": "Anglards-de-Saint-Flour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.102329,
+          45.033517
+        ]
+      },
+      "properties": {
+        "name": "Hôtel l'Etape",
+        "adresse": "18 avenue de la République",
+        "commune": "Saint-Flour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.803,
+          44.9226
+        ]
+      },
+      "properties": {
+        "name": "Hôtel-Restaurant de la Poste",
+        "adresse": "7, rue du 19 Mars 1962",
+        "commune": "Saint-Martin-sous-Vigouroux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.187001,
+          45.164599
+        ]
+      },
+      "properties": {
+        "name": "Auberge de l'Allagnonette",
+        "adresse": "Le bourg",
+        "commune": "Saint-Poncy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.83685,
+          44.921412
+        ]
+      },
+      "properties": {
+        "name": "Hotel du Midi",
+        "adresse": "5, Avenue Georges Pompidou",
+        "commune": "Pierrefort"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.135295,
+          45.008335
+        ]
+      },
+      "properties": {
+        "name": "Hôtel et Spa Le Bout du Monde",
+        "adresse": "3, Rue du Moulin de Saint-Michel",
+        "commune": "Saint-Georges"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.106783,
+          45.034555
+        ]
+      },
+      "properties": {
+        "name": "Hôtel des Messageries",
+        "adresse": "23, avenue du Général de Gaulle",
+        "commune": "Saint-Flour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.139343,
+          45.030712
+        ]
+      },
+      "properties": {
+        "name": "Hôtel Cantal Cottages",
+        "adresse": "40, Le Crozatier",
+        "commune": "Saint-Georges"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.146601,
+          44.940539
+        ]
+      },
+      "properties": {
+        "name": "Hôtel Le Relais des Sites",
+        "adresse": "Le Bourg - Faverolles",
+        "commune": "Val d'Arcomie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.094572,
+          45.033676
+        ]
+      },
+      "properties": {
+        "name": "Hôtel des Roches",
+        "adresse": "7-8, Place d'Armes",
+        "commune": "Saint-Flour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.165957,
+          44.998838
+        ]
+      },
+      "properties": {
+        "name": "Hôtel La Méridienne",
+        "adresse": "",
+        "commune": "Anglards-de-Saint-Flour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.005186,
+          44.698667
+        ]
+      },
+      "properties": {
+        "name": "La Fontaine de Grégoire - Chambres d'hôtes",
+        "adresse": "2 rue de la Croix de Grégoire",
+        "commune": "Saint-Urcize"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.007936,
+          44.839226
+        ]
+      },
+      "properties": {
+        "name": "Chalmeton Agnès - Chambres d'hôtes",
+        "adresse": "La Fouilhouse",
+        "commune": "Chaudes-Aigues"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.087115,
+          44.900815
+        ]
+      },
+      "properties": {
+        "name": "Guilbot Marinette - Chambres et table d'hôtes",
+        "adresse": "3 rue de la Fontaine",
+        "commune": "Fridefont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.110375,
+          44.912517
+        ]
+      },
+      "properties": {
+        "name": "Chassang Céline - Chambres d'hôtes",
+        "adresse": "Le belvédère de Mallet",
+        "commune": "Fridefont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.004017,
+          44.82205
+        ]
+      },
+      "properties": {
+        "name": "La Maison de Gilbert - Chambres d'Hôtes",
+        "adresse": "Lieu dit La Valette",
+        "commune": "Chaudes-Aigues"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.085272,
+          44.901413
+        ]
+      },
+      "properties": {
+        "name": "La Ferme des Deux Vallées - Chambres d'hôtes",
+        "adresse": "4 rue des Forgerons",
+        "commune": "Fridefont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.003382,
+          44.851247
+        ]
+      },
+      "properties": {
+        "name": "Hôtel du Ban",
+        "adresse": "27 avenue du Président Pompidou",
+        "commune": "Chaudes-Aigues"
+      }
+    }
+  ]
 }
