@@ -2,6 +2,92 @@ name: Mise à jour GeoJSON
 
 on:
   schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Générer le GeoJSON
+        env:
+          APIDAE_PROJET_ID: ${{ secrets.APIDAE_PROJET_ID }}
+          APIDAE_API_KEY: ${{ secrets.APIDAE_API_KEY }}
+        run: |
+          python3 << 'EOF'
+          import json, urllib.request, urllib.parse, os
+
+          def fetch_page(first, all_results):
+            q = {
+              "projetId": int(os.environ["APIDAE_PROJET_ID"]),
+              "apiKey": os.environ["APIDAE_API_KEY"],
+              "selectionIds": [188585, 188586, 188587, 188589, 188593, 188594],
+              "responseFields": ["id","nom","localisation.adresse","localisation.geolocalisation.geoJson","informations.moyensCommunication","illustrations"],
+              "locales": ["fr"],
+              "count": 200,
+              "first": first
+            }
+            url = "https://api.apidae-tourisme.com/api/v002/recherche/list-objets-touristiques?query=" + urllib.parse.quote(json.dumps(q))
+            with urllib.request.urlopen(url) as r:
+              data = json.load(r)
+            objets = data.get("objetsTouristiques", [])
+            all_results.extend(objets)
+            if len(objets) == 200:
+              fetch_page(first + 200, all_results)
+
+          all_results = []
+          fetch_page(0, all_results)
+
+          features = []
+          for o in all_results:
+            geo = o.get("localisation", {}).get("geolocalisation", {}).get("geoJson")
+            if not geo:
+              continue
+            comms = o.get("informations", {}).get("moyensCommunication", [])
+            tel = next((c["coordonnees"]["fr"] for c in comms if c.get("type", {}).get("libelleFr") == "Téléphone"), "")
+            email = next((c["coordonnees"]["fr"] for c in comms if c.get("type", {}).get("libelleFr") == "Mél"), "")
+            web = next((c["coordonnees"]["fr"] for c in comms if c.get("type", {}).get("libelleFr") == "Site web (URL)"), "")
+            image = ""
+            if o.get("illustrations"):
+              image = o["illustrations"][0].get("traductionFichiers", [{}])[0].get("url", "")
+            features.append({
+              "type": "Feature",
+              "geometry": geo,
+              "properties": {
+                "name": o.get("nom", {}).get("libelleFr", "Sans nom"),
+                "adresse": o.get("localisation", {}).get("adresse", {}).get("adresse1", ""),
+                "commune": o.get("localisation", {}).get("adresse", {}).get("commune", {}).get("nom", ""),
+                "telephone": tel,
+                "email": email,
+                "website": web,
+                "image": image
+              }
+            })
+
+          with open("hebergements_nuitee_cantal.geojson", "w", encoding="utf-8") as f:
+            json.dump({"type": "FeatureCollection", "features": features}, f, ensure_ascii=False, indent=2)
+
+          print(f"{len(features)} hébergements exportés !")
+          EOF
+
+      - name: Commit et push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add hebergements_nuitee_cantal.geojson
+          git commit -m "Mise à jour automatique" || echo "Rien à commiter"
+          git push
+
+Le mar. 21 juil. 2026, 23:31, rando cantal CD15 <btbcg15@gmail.com> a écrit :
+name: Mise à jour GeoJSON
+
+on:
+  schedule:
     - cron: '0 3 * * *' # toutes les nuits à 3h
   workflow_dispatch:
 
